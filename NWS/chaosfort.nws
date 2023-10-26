@@ -1,0 +1,24 @@
+~B~1Chaos Fortress~2~B
+---------------------------------------------------------------------------------------------
+Do what you want and have fun doing it!
+
+Chaos Fortress is the one zone that will make both Chaos Zone players and Super Fortress players happy.  You have the same basic gameplay of Chaos Zone, and some of the most popular SF bases of all time to defend flags in.  Or if you just want to grab a flag and see how long you can survive running around the map with half the zone chasing you, go for it!
+
+As alluded to above the objective is whatever you want it to be.  That being said, the main game running in the background is the flag game.  In order to win the flag game you must capture all 8 (or 4 for low populations) flags in the zone and successfully defend them for 2 minutes.
+
+Here is a list of some commands that you might find useful if you are flagging:~6
+
+%coord ~0  - This will display your current coordinates.  Ex: D5 (%exact for X/Y)~6
+%flagcount ~0  - This will display how many flags you currently carry.~6
+%flagdrop ~0  - This will display how many seconds you have before dropping one of your flags.~6
+%flagger ~0  - This will display the name of an enemy flag carrier and the number of flags they carry that is within your range.~6
+?flags ~0  - This will list which players and teams currently own which flags.~2
+
+Here are some common macros for base flagging to use in team chat:
+
+~B~4SAFE at NME %coord   ~B~0- You are safe at the enemy teams base.
+~B~4Safe at HOME %coord   ~B~0- You are safe at your home teams base.
+~B~4HELP!! Home is RED!!, ATTACH NOW!!!   ~B~0- Your home base is under attack, calling for help.
+~B~4Chasing %flagger @ %coord!   ~B~0- You are chasing an enemy flag carrier and letting people know if they want to help.
+~B~4I have %flagcount flag(s), dropping in %flagdrop seconds.   ~0- Letting people know your flag status.
+~B~4SAFE OUT %coord   ~B~0- You are safe outside of a base so a flagger can attach to you without being killed.~2

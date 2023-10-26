@@ -1,0 +1,24 @@
+~B~1Power Zone~2~B
+
+Welcome to Power Zone.  The object of Power Zone is for your team to capture both of the power flags.  In order to capture a flag you must either kill an opposing flag carrier, or pick it up if it has been dropped.  The 2 power flags are the Shield Flag and the Energy Flag.  The Shield Flag provides the flag carrier and his teammates within a certain proximity with a shield boost.  The Energy Flag provides the flag carrier and his teammates within a certain proximity with a recharge boost.  You may only carry one power flag at a time.
+
+Once you capture a power flag you have a 2 minute timer before the flag will drop.  You must kill a member of the opposing team to reset your flag timer.  Flag carriers get double points for kills.  After you capture both flags you must hold them for 2 minutes in order to win the game.
+
+The two teams battling eachother in Power Zone are the Orion Belters and the Taurus Horns.  Each team can field up to 8 players.
+
+Here are some helpful commands that you may want to use in Power Zone:~4
+
+%coord - ~6Displays your coordinates.~4
+%count[ItemName] - ~6Displays the number of items in your arsenal.  Ex: %count[Repulsor]~4
+%flagdrop - ~6Displays how much time you have left before dropping your flag.~4
+%flagger - ~6If there is a flagger in your area it'll announce their name with a |# after it.  Useful in conjunction with %coord.~4
+?drop Repulsor - ~6Will drop a repulsor from your arsenal, if you have one, can drop 2 by adding :2 after Repulsor.  Useful if your teams flag carrier doesn't have a rep and can't get to the rep spawns.
+
+~B~406/06/08~2~B
+
+Fixed a couple of issues with flags and now using own .rpg file to remove the point cap from Null and Arachnae ships.
+
+
+~B~406/03/08~2~B
+
+I shrunk the map down and changed it up a bit.  Tweaked the effects of the power flags slightly as well.

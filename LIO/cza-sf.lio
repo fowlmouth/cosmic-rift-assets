@@ -1,0 +1,79 @@
+1,v25,1,"Bottom Left Outer 1",2448,11320,0,0,0,-3,    -8,0,16,1, 500,0,0,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+9,v25,2,"Planets - Jupiter",7824,5504,0,0,0,-3,    35,35,1,Planets,jupiter,0,0,0,0,0,0
+1,v25,3,"Bottom Left Inner 1-1",6120,8816,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,4,"Bottom Left Inner 1-2",6120,8912,0,0,0,-3,    0,-2,1,4, 500,3,0,0, crdoors,EnergyDoorVert2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,5,"Bottom Middle 1-1",8024,8176,0,0,0,-3,    0,-1,1,2, 500,0,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,6,"Bottom Middle 1-2",8024,8224,0,0,0,-3,    0,-1,1,2, 500,5,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,7,"Bottom Middle 1-3",8024,8272,0,0,0,-3,    0,-1,1,2, 500,5,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,8,"Bottom Middle 1-4",8024,8320,0,0,0,-3,    0,-1,1,2, 500,5,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,9,"Bottom Middle 1-5",8024,8368,0,0,0,-3,    0,-1,1,2, 500,5,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,10,"Bottom Middle 2-1",9576,8432,0,0,0,-3,    0,-1,1,2, 500,0,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,11,"Bottom Middle 2-2",9576,8464,0,0,0,-3,    0,-1,1,2, 500,10,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,12,"Bottom Middle 2-3",9576,8496,0,0,0,-3,    0,-1,1,2, 500,10,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,13,"Bottom Middle 2-4",9576,8528,0,0,0,-3,    0,-1,1,2, 500,10,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,14,"Bottom Middle 2-5",9576,8560,0,0,0,-3,    0,-1,1,2, 500,10,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,15,"Bottom Middle 2-6",9576,8592,0,0,0,-3,    0,-1,1,2, 500,10,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,16,"Bottom Middle 2-7",9576,8624,0,0,0,-3,    0,-1,1,2, 500,10,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,17,"Bottom Middle 3-1",10648,9184,0,0,0,-3,    0,-1,1,2, 500,0,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,18,"Bottom Middle 3-2",10648,9232,0,0,0,-3,    0,-1,1,2, 500,17,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,19,"Bottom Middle 3-3",10648,9280,0,0,0,-3,    0,-1,1,2, 500,17,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,20,"Bottom Right 1-1",15240,11024,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,21,"Bottom Right 1-2",15240,11152,0,0,0,-3,    0,-4,1,8, 500,20,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,22,"Bottom Right 2-1",14872,10960,0,0,0,-3,    0,-8,1,16, 500,0,0,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,23,"Bottom Right 2-2",14872,11216,0,0,0,-3,    0,-8,1,16, 500,22,0,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,24,"Top Right 1-1",12624,3752,0,0,0,-3,    -4,0,8,1, 500,0,0,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,25,"Top Right 1-2",12720,3752,0,0,0,-3,    -2,0,4,1, 500,24,0,0, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,26,"Top Middle 1-1",8336,776,0,0,0,-3,    -4,0,8,1, 500,0,0,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,27,"Top Middle 1-2",8432,776,0,0,0,-3,    -2,0,4,1, 500,26,0,0, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,28,"Top Middle 2-1",7376,776,0,0,0,-3,    -4,0,8,1, 500,26,0,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,29,"Top Middle 2-2",7280,776,0,0,0,-3,    -2,0,4,1, 500,26,0,0, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+8,v25,30,"SpaceFort Core",12096,2432,1500,1500,0,-3,    0,0,"SpaceFort Core"
+9,v25,31,"Planets - Mars",7408,10848,0,0,0,-3,    35,35,1,Planets,mars,0,0,0,0,-5,0
+9,v25,32,"LNebula2",12077,8726,0,0,0,-3,    30,30,1,BackgroundSprites,Lnebula2,0,0,0,0,-20,0
+9,v25,33,"Planets - Moon1",15376,5056,0,0,0,-3,    35,35,1,Planets,moon1,0,0,0,0,-2,0
+9,v25,34,"Planets - Moon0",8688,7168,0,0,0,-3,    40,40,1,Planets,moon0,0,0,0,0,-7,0
+7,v25,35,"Bottom Right Safe",16178,12242,90,160,0,-3,    -1,1000,1,0,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v25,36,"Bottom Left Safe 1",4594,12370,30,60,0,-3,    -1,1000,1,0,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v25,37,"Bottom Left Safe 2",4322,12930,30,60,0,-3,    -1,1000,1,0,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v25,38,"Bottom Left Safe 3",4738,12898,30,60,0,-3,    -1,1000,1,0,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+5,v25,39,"Cash Money Hide",7872,6880,4500,4500,0,-3,     10,500,500,1, 0,200,0,99999, -1,3,4093, 1,0,,0,0, 0,0,-2,0, -1
+5,v25,40,"MultiBomb Hide",7728,6032,4500,4500,0,-3,     10,500,500,1, 0,200,0,99999, -1,8,2901, 1,0,,0,0, 0,0,-2,0, -1
+5,v25,41,"Repel Hide",8576,6336,4500,4500,0,-3,     10,500,500,1, 0,200,0,99999, -1,10,101, 1,0,,0,0, 0,0,-2,0, -1
+5,v25,42,"SuperManeuver Hide",8880,6384,4500,4500,0,-3,     10,500,500,1, 0,200,0,99999, -1,3,4425, 1,0,,0,0, 0,0,-2,0, -1
+5,v25,43,"SuperBurst Hide",8512,6064,4500,4500,0,-3,     10,500,500,1, 0,200,0,99999, -1,8,2903, 1,0,,0,0, 0,0,-2,0, -1
+5,v25,44,"SuperMine Hide",8080,6304,4500,4500,0,-3,     10,500,500,1, 0,200,0,99999, -1,8,2902, 1,0,,0,0, 0,0,-2,0, -1
+8,v25,45,"Tower",7856,1904,1000,2000,0,-3,    0,0,"Tower Superiority Complex"
+8,v25,46,"Substratum",3456,1920,1700,1000,0,-3,    0,0,"Substratum Fortress"
+8,v25,47,"Citadel",16144,7184,1200,1800,0,-3,    0,0,"The Citadel"
+8,v25,48,"Combs",12768,6432,1700,1800,0,-3,    0,0,"Primary Hive Cluster"
+8,v25,49,"Castle",13248,12224,2000,1500,0,-3,    0,0,"Castle Fortress"
+8,v25,50,"Castle Extension",8000,12416,1600,1000,0,-3,    0,0,"Castle Fortress Outer Corridor"
+8,v25,51,"Stronghold",1520,10608,1200,2100,0,-3,    0,0,"The Stronghold"
+8,v25,52,"Stronghold Outer Defense System",5088,9712,1200,1400,0,-3,    0,0,"Stronghold Outer Defense System"
+8,v25,53,"Frontal Blockade",5008,6736,1500,1500,0,-3,    0,0,"Frontal Blockade"
+8,v25,54,"Chamber",1424,6496,1200,1500,0,-3,    0,0,"Inner Chamber SuperStructure"
+7,v25,55,"Top Left Safe 1",3138,4546,30,60,0,-3,    -1,1000,1,0,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v25,56,"Top Left Safe 2",3138,5154,30,60,0,-3,    -1,1000,1,0,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+7,v25,57,"Center Safe",9490,5842,60,60,0,-3,    -1,1000,1,0,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0cruiart,cursor,0,0,0,0,0,0
+7,v25,58,"In Base Safe",5874,10034,30,30,0,-3,    -1,1000,1,0,0,  0,300,-1,  cruiart,cursor,0,0,0,0,0,0,SFAmbient,docking_proceedure,0,0
+8,v25,59,"Soft Dock SafePort Platform",9488,5840,300,400,0,-3,    0,0,"Soft Dock SafePort Platform"
+4,v25,60,"Central Warp",8768,7456,2400,3600,0,-3,  0,500,0,500,0, 0,0,""
+4,v25,62,"Left Side Warp",3232,7456,400,4200,0,-3,  35,500,0,500,0, 0,0,""
+4,v25,63,"Right Side Warp",13120,9088,1900,1300,0,-3,  30,500,0,500,0, 0,0,""
+4,v25,64,"High Player Count Extra Warp 1",4688,12560,1700,1300,0,-3,  50,500,0,500,0, 0,0,""
+4,v25,65,"High Player Count Extra Warp 2",14192,4912,700,500,0,-3,  50,500,0,500,0, 0,0,""
+3,v25,61,"ObjectiveA",9468,7100,1000,1000,0,-3,     1000,6,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0
+3,v25,66,"ObjectiveB",7404,5564,1000,1000,0,-3,     1000,6,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0
+3,v25,67,"ObjectiveC",11996,8540,1000,1000,0,-3,     1000,6,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0
+3,v25,68,"ObjectiveD",8796,4540,1000,1000,0,-3,     1000,6,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0
+3,v25,69,"ObjectiveE",5932,5868,1000,1000,0,-3,     1000,6,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0
+3,v25,70,"ObjectiveF",9372,5596,1000,1000,0,-3,     1000,6,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0
+3,v25,71,"ObjectiveG",7500,5052,1000,1000,0,-3,     1000,6,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0
+3,v25,72,"ObjectiveH",8540,6284,1000,1000,0,-3,     1000,6,300,  3,3,1,1,1,  0,0,0,  1,1,1,9000,  30000,100,0,0, 0,0,1000,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,300,UtilitySounds,flag,0,0,None,None,0,0
+1,v25,73,"Bottom Middle 3-4",10648,9328,0,0,0,-3,    0,-1,1,2, 500,17,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,74,"Bottom Middle 3-5",10648,9376,0,0,0,-3,    0,-1,1,2, 500,17,0,0, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,75,"Top Middle 3-1",7280,1912,0,0,0,-3,    -2,0,4,1, 500,0,0,0, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,76,"Top Middle 3-2",7328,1912,0,0,0,-3,    -1,0,2,1, 500,75,0,0, crdoors,EnergyDoorHorz,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,77,"Top Middle 4-1",8432,1912,0,0,0,-3,    -2,0,4,1, 500,75,0,0, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,78,"Top Middle 4-2",8384,1912,0,0,0,-3,    -1,0,2,1, 500,75,0,0, crdoors,EnergyDoorHorz,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+5,v25,500,"Reward Bay",9056,5840,0,0,0,-3,     0,0,0,0, 0,0,0,99999, 0,0,-700, 0,0,,0,0, 0,0,0,0, 0

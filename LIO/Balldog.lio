@@ -1,0 +1,29 @@
+1,v25,1,"Mid door Right A",6248,2368,0,0,0,0,    0,-8,1,16, 500,0,0,0, crdoors,EnergyDoorVert8,0,0,50,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,2,"Mid door right B",6264,2368,0,0,0,0,    0,-8,1,16, 0,1,0,0, crdoors,EnergyDoorVert8,0,0,50,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,3,"Mid door right C",6248,2528,0,0,0,0,    0,-2,1,4, 0,1,0,0, crdoors,EnergyDoorVert2,0,0,50,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,4,"Mid door right D",6264,2528,0,0,0,0,    0,-2,1,4, 0,1,0,0, crdoors,EnergyDoorVert2,0,0,50,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,5,"Mid door Left A",4152,2368,0,0,0,0,    0,-4,1,16, 500,0,0,0, crdoors,EnergyDoorVert8,0,0,50,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,6,"Mid door Left B",4136,2368,0,0,0,0,    0,-4,1,16, 0,5,0,0, crdoors,EnergyDoorVert8,0,0,50,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,7,"Mid door Left C",4152,2528,0,0,0,0,    0,-2,1,4, 0,5,0,0, crdoors,EnergyDoorVert2,0,0,50,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,8,"Mid door Left D",4136,2528,0,0,0,0,    0,-2,1,4, 0,5,0,0, crdoors,EnergyDoorVert2,0,0,50,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,9,"Top door Left A",4152,1344,0,0,0,0,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,30,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,10,"Top door Left B",4152,1424,0,0,0,0,    0,-1,1,2, 0,9,0,0, crdoors,EnergyDoorVert,0,0,30,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,11,"Top door Left C",4136,1344,0,0,0,0,    0,-4,1,8, 500,9,0,0, crdoors,EnergyDoorVert4,0,0,30,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,12,"Top door Left D",4136,1424,0,0,0,0,    0,-1,1,2, 0,9,0,0, crdoors,EnergyDoorVert,0,0,30,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,13,"Top door Right A",6248,1344,0,0,0,0,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,30,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,14,"Top door Right B",6264,1344,0,0,0,0,    0,-4,1,8, 500,13,0,0, crdoors,EnergyDoorVert4,0,0,30,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,15,"Top door Right C",6264,1424,0,0,0,0,    0,-1,1,2, 0,13,0,0, crdoors,EnergyDoorVert,0,0,30,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,16,"Top door Right D",6248,1424,0,0,0,0,    0,-1,1,2, 0,13,0,0, crdoors,EnergyDoorVert,0,0,30,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,17,"Bottom door Right A",6248,3392,0,0,0,0,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,90,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,18,"Bottom door Right B",6264,3392,0,0,0,0,    0,-4,1,8, 500,17,0,0, crdoors,EnergyDoorVert4,0,0,90,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,19,"Bottom door Right C",6264,3472,0,0,0,0,    0,-1,1,2, 0,17,0,0, crdoors,EnergyDoorVert,0,0,90,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,20,"Bottom door Right D",6248,3472,0,0,0,0,    0,-1,1,2, 0,17,0,0, crdoors,EnergyDoorVert,0,0,90,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,21,"Bottom door Left A",4152,3392,0,0,0,0,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,90,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,22,"Bottom door Left B",4136,3392,0,0,0,0,    0,-4,1,8, 500,21,0,0, crdoors,EnergyDoorVert4,0,0,90,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,23,"Bottom door Left C",4152,3472,0,0,0,0,    0,-1,1,2, 0,21,0,0, crdoors,EnergyDoorVert,0,0,90,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,24,"Bottom door Left D",4136,3472,0,0,0,0,    0,-1,1,2, 0,21,0,0, crdoors,EnergyDoorVert,0,0,90,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+4,v25,25,"TeamAStart",5200,624,700,400,0,0,  0,500,0,500,1, 2,0,""
+4,v25,26,"TeamBStart",5200,4144,700,400,0,0,  0,500,0,500,2, 2,0,""
+4,v25,27,"ballstartA",5200,2400,20,20,0,0,  0,500,0,500,500, 0,0,""
+4,v25,28,"MapEntryTeamA",5200,624,700,400,0,0,  0,500,0,500,0, 2,0,""
+4,v25,29,"MapEntryTeamB",5200,4144,700,400,0,0,  0,500,0,500,2, 2,0,""

@@ -1,0 +1,76 @@
+~BTotal War v.99~B
+
+Game Objective: Destroy enemy base.
+
+Teams: 2
+
+Each team starts the game with a Base Station. Players will respawn around their respective Base Station.
+
+At Game start players will spawn around their Base Station with 1 of each special and 1 repulsor.
+
+
+***~BPower Cores:~B
+
+-When a player kills an enemy player, they are rewarded with that players Power Core. Players can carry a
+ maximum of 9 Power Cores.
+
+-If a player dies while carrying Power Cores, all the carried Power Cores are
+ dropped.
+
+-Players take thier collected Power Cores back to their Base Station in order to purchase items.
+
+
+
+***~BPurchasing Items:~B
+
+-Items are purchased at the Base Station.  Highlight the Base Station with your pointer/aiming tick to 
+ enable purchase menu
+
+-A Full load of specials (1 bomb, 1 mine, 1 burst) cost 1 Power Core.
+
+-Utilities cost 1 Power Core each.
+
+-Laser Satellite cost 3 Power Cores each.
+
+-Perimeter Buoys cost 3 Power Cores each.
+
+-Armakith and Daggir cost 5 Power Cores each.
+
+
+
+***~BLaser Defense Satellite:~B
+
+-Players can purchase and place one Defense Laser Satellite.
+
+-Defense Laser Satellites must be placed within 1000 pixels of the Base Station.
+
+-A Player can only place one active Defense Laser Satellite at any time.
+
+-A team can have a max of 10 Defense Laser Satellites active at any time.
+
+-Once purchased, a Defense Laser Satellite is actived by pressing Alt+1.
+
+
+***~BLaser Sat Upgrades:~B
+
+-Defense laser Satellites can be upgraded.  Max upgrade is level 5. Levels cost 1 Power Core each, except for
+ the first upgrade (level II) which costs 2 power cores.
+
+-Each level of upgrade makes the sat faster/smarter/stronger.
+
+~BPerimeter Buoys~B
+
+-Perimeter Buoys are equipped with the Perimeter Field, which repels all enemy vehicles within the effect 
+ range.
+
+-Perimeter Buoys must be placed within 2000 pixels of the base station, with no more than 2 placeable within
+ 1024 pixels.
+
+
+?Resources and ?struct will give Base and Laser sat information.
+
+
+
+The Game ends when one teams Base Station is destroyed.
+
+Arachnae craft are not available for use (for now)

@@ -1,0 +1,41 @@
+6,v25,1,"ToBox1",15664,18016,98,98,0,-3,    -1,101,, 0,0,0,UtilityEffects,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,UtilitySounds,portal,0,0
+6,v25,2,"ToBox2",15664,18272,98,98,0,-3,    -1,102,, 0,0,0,UtilityEffects,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,UtilitySounds,portal,0,0
+6,v25,3,"ToBox3",15664,18528,98,98,0,-3,    -1,103,, 0,0,0,UtilityEffects,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,UtilitySounds,portal,0,0
+6,v25,4,"ToBox4",15664,18784,98,98,0,-3,    -1,104,, 0,0,0,UtilityEffects,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,UtilitySounds,portal,0,0
+6,v25,5,"ToBox5",16944,18016,98,98,0,-3,    -1,105,, 0,0,0,UtilityEffects,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,UtilitySounds,portal,0,0
+6,v25,6,"ToBox6",16944,18272,98,98,0,-3,    -1,106,, 0,0,0,UtilityEffects,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,UtilitySounds,portal,0,0
+6,v25,7,"ToBox7",16944,18528,98,98,0,-3,    -1,107,, 0,0,0,UtilityEffects,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,UtilitySounds,portal,0,0
+6,v25,8,"ToBox8",16944,18784,98,98,0,-3,    -1,108,, 0,0,0,UtilityEffects,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,UtilitySounds,portal,0,0
+6,v25,9,"ToBoxFFA",16304,19008,230,130,0,-3,    -1,109,, 0,0,0,UtilityEffects,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,UtilitySounds,portal,0,0
+4,v25,11,"Box1",11840,13232,65,350,0,-3,  0,500,0,500,101, 0,0,""
+4,v25,12,"Box2",11840,15488,65,350,0,-3,  0,500,0,500,102, 0,0,""
+4,v25,13,"Box3",14096,13232,65,350,0,-3,  0,500,0,500,103, 0,0,""
+4,v25,14,"Box4",14096,15488,65,350,0,-3,  0,500,0,500,104, 0,0,""
+4,v25,15,"Box5",18496,13232,65,350,0,-3,  0,500,0,500,105, 0,0,""
+4,v25,16,"Box6",18496,15488,65,350,0,-3,  0,500,0,500,106, 0,0,""
+4,v25,17,"Box7",20752,13232,65,350,0,-3,  0,500,0,500,107, 0,0,""
+4,v25,18,"Box8",20752,15488,65,350,0,-3,  0,500,0,500,108, 0,0,""
+4,v25,19,"BoxFFA",16320,10224,1125,700,0,-3,  0,500,0,500,109, 0,0,""
+4,v25,20,"PortalBox",16320,18416,300,300,0,-3,  0,500,0,500,0, 0,0,""
+4,v25,21,"RaceStart",16368,16784,110,94,0,-3,  0,500,0,500,110, 0,0,""
+6,v25,22,"ToRaceBox",15664,17312,98,98,0,-3,    -1,110,, 0,0,0,UtilityEffects,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,UtilitySounds,portal,0,0
+6,v25,25,"ToFinishBox",16864,16784,36,36,0,-3,    -1,111,, 0,0,200,CRMiscEffects,wormhole,0,0,0,0,0,0,None,None,0,0,0,0,0,0,UtilitySounds,teleport,0,0
+4,v25,26,"FinishBox",16944,17312,90,90,0,-3,  0,500,0,500,111, 0,0,""
+1,v25,27,"Race door A",16184,16752,0,0,0,0,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,crbongs,buzzer,0,0,None,None,0,0
+1,v25,28,"Race door B",16184,16848,0,0,0,0,    0,-2,1,4, 0,27,0,0, crdoors,EnergyDoorVert2,0,0,70,0,0,0,crbongs,buzzer,0,0,None,None,0,0
+1,v25,29,"Race door C",16200,16752,0,0,0,0,    0,-4,1,8, 0,27,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,crbongs,buzzer,0,0,None,None,0,0
+1,v25,30,"Race door D",16200,16848,0,0,0,0,    0,-2,1,4, 0,27,0,0, crdoors,EnergyDoorVert2,0,0,70,0,0,0,crbongs,buzzer,0,0,None,None,0,0
+1,v25,31,"Race door In race A",21072,15448,0,0,0,0,    -2,0,4,1, 500,0,0,0, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,0,0,UtilitySounds,gateway,0,0
+1,v25,32,"Race door In race B",21072,15432,0,0,0,0,    -2,0,4,1, 500,31,0,0, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,0,0,UtilitySounds,gateway,0,0
+6,v25,33,"zToRed",13520,11856,65,32,0,-3,    -1,112,, 0,0,0,UtilityEffects,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,UtilitySounds,portal,0,0
+6,v25,34,"zToBlue",18656,11584,65,32,0,-3,    -1,113,, 0,0,0,UtilityEffects,None,0,0,0,0,0,0,None,None,0,0,0,0,0,0,UtilitySounds,portal,0,0
+4,v25,35,"zred",13984,11584,1,1,0,-3,  0,500,0,500,112, 0,0,""
+4,v25,36,"zblue",19120,11856,1,1,0,-3,  0,500,0,500,113, 0,0,""
+1,v25,37,"Door1",11976,13232,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,38,"Door2",11976,15488,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,39,"Door3",14232,13232,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,40,"Door4",14232,15488,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,41,"Door5",18360,13232,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,42,"Door6",18360,15488,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,43,"Door7",20616,13232,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v25,44,"Door8",20616,15488,0,0,0,-3,    0,-4,1,8, 500,0,0,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0

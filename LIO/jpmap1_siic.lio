@@ -1,0 +1,115 @@
+5,v21,1,"Repel Hide",11375,12050,10000,10000,0,     1,200,200,1, 20,200,0,99999, -1,6,101, 1,0,,0,0
+4,v21,8,"Warp0",9600,10032,2000,2000,0,  0,15,0,500,0, 0,0,""
+4,v21,9,"Warp1",9600,10032,3500,3500,0,  15,40,0,500,0, 0,0,""
+4,v21,10,"Warp2",9600,10032,5000,5000,0,  40,80,0,500,0, 0,0,""
+6,v21,14,"Wormhole",11472,8192,36,36,0,    -1,10,, 0,0,1600,CRMiscEffects,wormhole,0,0,0,0,0,400,None,None,0,0,0,0,0,0,WeaponSounds,None,0,0
+9,v21,11,"OldStars",0,0,30000,30000,0,    10,30,80,starback,stars,0,0,0,0,0,0
+9,v21,13,"Nebula1",9939,7993,0,0,0,    30,30,1,BackgroundSprites,LNebula,0,0,0,0,-10,0
+9,v21,17,"BigNebula",4253,1446,0,0,0,    30,30,1,BackgroundSprites,Lnebula2,0,0,0,0,-15,0
+9,v21,18,"SmallNebula",13182,2774,0,0,0,    30,30,1,BackgroundSprites,SNebula2,0,0,0,0,-15,0
+5,v21,136,"MultiBomb Hide",11375,12050,10000,10000,0,     10,200,200,1, 20,200,0,99999, -1,15,8, 1,0,,0,0
+5,v21,137,"SuperMine Hide",11375,12050,10000,10000,0,     10,200,200,1, 20,200,0,99999, -1,12,9, 1,0,,0,0
+9,v21,3,"PLanet0",6256,5168,0,0,0,    40,40,1,Planets,moon0,0,0,0,0,-5,0
+9,v21,15,"PLanet1",6256,12896,0,0,0,    35,35,1,Planets,mars,0,0,0,0,-5,0
+9,v21,16,"PLanet2",13200,8672,0,0,0,    35,35,1,Planets,moon1,0,0,0,0,-5,0
+9,v21,19,"PLanet3",8832,976,0,0,0,    35,35,1,Planets,jupiter,0,0,0,0,-5,0
+5,v21,20,"SuperBurst Hide",11375,12050,10000,10000,0,     10,200,200,1, 20,200,0,99999, -1,12,11, 1,0,,0,0
+9,v21,138,"Star2",0,0,30000,30000,0,    10,30,30,starback,star2A_0000,0,0,0,0,0,0
+9,v21,139,"Star3",0,0,30000,30000,0,    10,30,30,starback,star3A_0000,0,0,0,0,0,0
+9,v21,141,"Star5",0,0,30000,30000,0,    10,30,30,starback,star5A_0000,0,0,0,0,0,0
+5,v21,140,"MultiBomb Hide (low player)",11375,12050,4000,4000,0,     5,200,200,1, 0,20,0,99999, -1,8,8, 1,0,,0,0
+5,v21,142,"Repel Hide (low player)",11375,12050,4000,4000,0,     5,200,200,1, 0,20,0,99999, -1,4,101, 1,0,,0,0
+5,v21,143,"SuperBurst Hide (low player)",11375,12050,4000,4000,0,     5,200,200,1, 0,20,0,99999, -1,8,11, 1,0,,0,0
+5,v21,144,"SuperMine Hide (low player)",11375,12050,4000,4000,0,     5,200,200,1, 0,20,0,99999, -1,5,9, 1,0,,0,0
+4,v21,2,"Warp3",9600,10032,7000,7000,0,  80,500,0,500,0, 0,0,""
+1,v21,4,"HDoorA",2752,17080,0,0,0,    -8,0,16,1, 500,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,5,"HDoorA1",2896,17080,0,0,0,    -2,0,4,1, 500,4, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,6,"HDoorB",7760,16488,0,0,0,    -8,0,16,1, 500,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,7,"HDoorB1",7920,16488,0,0,0,    -2,0,4,1, 500,6, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,12,"HDoorC",9376,19112,0,0,0,    -4,0,8,1, 500,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,21,"HDoorC1",9504,19112,0,0,0,    -4,0,8,1, 500,12, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,24,"HDoorE",4928,18008,0,0,0,    -4,0,8,1, 500,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,25,"HDoorE1",5024,18008,0,0,0,    -4,0,8,1, 500,24, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,26,"HDoorF",4784,16760,0,0,0,    -8,0,16,1, 500,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,27,"HDoorG",4784,16648,0,0,0,    -8,0,16,1, 500,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,28,"HDoorH",4784,14984,0,0,0,    -8,0,16,1, 500,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,29,"HDoorI",4784,15096,0,0,0,    -8,0,16,1, 500,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,30,"HDoorJ",5216,13560,0,0,0,    -4,0,8,1, 500,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,31,"HDoorJ1",5296,13560,0,0,0,    -1,0,2,1, 500,30, crdoors,EnergyDoorHorz,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,32,"HDoorK",8112,7016,0,0,0,    -8,0,16,1, 500,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,33,"HDoorL",7472,6520,0,0,0,    -8,0,16,1, 500,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,34,"HDoorL1",7632,6520,0,0,0,    -2,0,4,1, 500,33, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,35,"HDoorM",7472,4904,0,0,0,    -8,0,16,1, 500,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,36,"HDoorM1",7632,4904,0,0,0,    -2,0,4,1, 500,35, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,37,"HDoorN",11552,4008,0,0,0,    -4,0,8,1, 500,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,38,"HDoorN1",11648,4008,0,0,0,    -2,0,4,1, 500,37, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,39,"HDoorO",14944,3592,0,0,0,    -4,0,8,1, 500,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,40,"HDoorO1",14848,3592,0,0,0,    -4,0,8,1, 500,39, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,41,"HDoorP",14848,7576,0,0,0,    -4,0,8,1, 500,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,42,"HDoorP1",14944,7576,0,0,0,    -4,0,8,1, 500,41, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,43,"HDoorQ",15680,1960,0,0,0,    -4,0,8,1, 500,0, crdoors,EnergyDoorHorz4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,44,"HDoorQ1",15760,1960,0,0,0,    -1,0,2,1, 500,43, crdoors,EnergyDoorHorz,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,45,"HDoorR",14992,15000,0,0,0,    -8,0,16,1, 500,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,46,"HDoorS",12944,15576,0,0,0,    -8,0,16,1, 500,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,47,"HDoorS1",13104,15576,0,0,0,    -2,0,4,1, 500,46, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,48,"HDoorT",11888,14520,0,0,0,    -8,0,16,1, 500,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,49,"HDoorT1",12048,14520,0,0,0,    -2,0,4,1, 500,48, crdoors,EnergyDoorHorz2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,50,"HDoorU",10512,6472,0,0,0,    -8,0,16,1, 500,0, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,51,"HDoorU1",10768,6472,0,0,0,    -8,0,16,1, 500,50, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,52,"HDoorU2",11024,6472,0,0,0,    -8,0,16,1, 500,50, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,53,"HDoorU3",11280,6472,0,0,0,    -8,0,16,1, 500,50, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,54,"HDoorU4",11536,6472,0,0,0,    -8,0,16,1, 500,50, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,55,"HDoorU5",11792,6472,0,0,0,    -8,0,16,1, 500,50, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,56,"HDoorU6",12048,6472,0,0,0,    -8,0,16,1, 500,50, crdoors,EnergyDoorHorz8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,57,"VDoorA",3976,5712,0,0,0,    0,-8,1,16, 500,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,58,"VDoorB",3896,15872,0,0,0,    0,-8,1,16, 500,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,59,"VDoorC",4008,15872,0,0,0,    0,-8,1,16, 500,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,60,"VDoorD",5560,15872,0,0,0,    0,-8,1,16, 500,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,61,"VDoorE",5672,15872,0,0,0,    0,-8,1,16, 500,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,62,"VDoorF",4424,12736,0,0,0,    0,-4,1,8, 500,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,63,"VDoorF1",4424,12816,0,0,0,    0,-1,1,2, 500,62, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,64,"VDoorG",4024,8464,0,0,0,    0,-4,1,8, 500,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,65,"VDoorG1",4024,8624,0,0,0,    0,-8,1,16, 500,64, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,66,"VDoorH",3544,17824,0,0,0,    0,-8,1,16, 500,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,67,"VDoorH1",3544,17968,0,0,0,    0,-1,1,2, 500,66, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,68,"VDoorI",12504,17488,0,0,0,    0,-8,1,16, 500,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,69,"VDoorJ",13160,15360,0,0,0,    0,-8,1,16, 500,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,70,"VDoorJ1",13160,15520,0,0,0,    0,-2,1,4, 500,69, crdoors,EnergyDoorVert2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,71,"VDoorK",12104,14304,0,0,0,    0,-8,1,16, 500,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,72,"VDoorK1",12104,14464,0,0,0,    0,-2,1,4, 500,71, crdoors,EnergyDoorVert2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,73,"VDoorL",7352,5808,0,0,0,    0,-2,1,4, 500,0, crdoors,EnergyDoorVert2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,74,"VDoorL1",7352,5856,0,0,0,    0,-1,1,2, 500,73, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,75,"VDoorM",7352,5584,0,0,0,    0,-2,1,4, 500,0, crdoors,EnergyDoorVert2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,76,"VDoorM1",7352,5632,0,0,0,    0,-1,1,2, 500,75, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,77,"VDoorN",11880,4784,0,0,0,    0,-8,1,16, 500,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,78,"VDoorN1",11880,4960,0,0,0,    0,-4,1,8, 500,77, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,80,"VDoorO",8696,4784,0,0,0,    0,-8,1,16, 500,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,81,"VDoorO1",8696,4960,0,0,0,    0,-4,1,8, 500,80, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,83,"VDoorP",8264,9200,0,0,0,    0,-4,1,8, 500,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,84,"VDoorP1",8264,9296,0,0,0,    0,-4,1,8, 500,83, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,85,"VDoorP2",7960,9296,0,0,0,    0,-4,1,8, 500,83, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,86,"VDoorP3",7960,9200,0,0,0,    0,-4,1,8, 500,83, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,87,"VDoorQ",10824,12416,0,0,0,    0,-8,1,16, 500,0, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,88,"VDoorQ1",10824,12672,0,0,0,    0,-8,1,16, 500,87, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,89,"VDoorQ2",10824,12928,0,0,0,    0,-8,1,16, 500,87, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,90,"VDoorQ3",10824,13184,0,0,0,    0,-8,1,16, 500,87, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,91,"VDoorQ4",10824,13440,0,0,0,    0,-8,1,16, 500,87, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,92,"VDoorQ5",10824,13696,0,0,0,    0,-8,1,16, 500,87, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,93,"VDoorQ6",10824,13952,0,0,0,    0,-8,1,16, 500,87, crdoors,EnergyDoorVert8,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,97,"VDoorR",15800,2048,0,0,0,    0,-4,1,8, 500,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,98,"VDoorR1",15800,2128,0,0,0,    0,-1,1,2, 500,97, crdoors,EnergyDoorVert,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+5,v21,108,"ECM Hide",11375,12050,10000,10000,0,     10,200,200,1, 20,200,0,99999, -1,15,13, 1,0,,0,0
+5,v21,109,"ECM Hide (low player)",11375,12050,4000,4000,0,     10,200,200,1, 0,20,0,99999, -1,8,13, 1,0,,0,0
+5,v21,110,"Stealth Hide",11375,12050,10000,10000,0,     10,200,200,1, 20,200,0,99999, -1,10,12, 1,0,,0,0
+5,v21,111,"Stealth Hide (low player)",11375,12050,4000,4000,0,     10,200,200,1, 0,20,0,99999, -1,8,12, 1,0,,0,0
+4,v21,99,"Warp Wormhole",5568,5712,948,628,0,  0,500,0,500,10, 0,0,""
+1,v21,22,"VDoorS",11816,19232,0,0,0,    0,-4,1,8, 500,0, crdoors,EnergyDoorVert4,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+1,v21,23,"VDoorS1",11816,19328,0,0,0,    0,-2,1,4, 500,22, crdoors,EnergyDoorVert2,0,0,70,0,0,0,UtilitySounds,gateway,2,0,UtilitySounds,gateway,2,0
+3,v21,300,"Flag 1",10908,11324,2000,2000,0,     1000,1,500,  1,1,1,0,0,  0,0,0,  1,1,0,30000,  1,200,0,0, 0,0,0,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,0,UtilitySounds,flag,2,0,None,None,0,0
+3,v21,301,"Flag 2",10908,11324,2000,2000,0,     1000,1,500,  1,1,1,0,0,  0,0,0,  1,1,0,30000,  1,200,0,0, 0,0,0,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,0,UtilitySounds,flag,2,0,None,None,0,0
+3,v21,302,"Flag 3",10908,11324,3000,3000,0,     1000,1,500,  1,1,1,0,0,  0,0,0,  1,1,0,30000,  1,200,0,0, 0,0,0,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,0,UtilitySounds,flag,2,0,None,None,0,0
+3,v21,303,"Flag 4",10908,11324,2000,2000,0,     1000,1,500,  1,1,1,0,0,  0,0,0,  1,1,0,30000,  1,200,0,0, 0,0,0,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,0,UtilitySounds,flag,2,0,None,None,0,0
+3,v21,304,"Flag 5",10908,11324,3000,3000,0,     1000,1,500,  1,1,1,0,0,  0,0,0,  1,1,0,30000,  1,200,0,0, 0,0,0,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,0,UtilitySounds,flag,2,0,None,None,0,0
+3,v21,305,"Flag 6",10908,11324,2000,2000,0,     1000,1,500,  1,1,1,0,0,  0,0,0,  1,1,0,30000,  1,200,0,0, 0,0,0,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,0,UtilitySounds,flag,2,0,None,None,0,0
+3,v21,306,"Flag 7",10908,11324,3000,3000,0,     1000,1,500,  1,1,1,0,0,  0,0,0,  1,1,0,30000,  1,200,0,0, 0,0,0,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,0,UtilitySounds,flag,2,0,None,None,0,0
+3,v21,307,"Flag 8",10908,11324,1000,1000,0,     1000,1,500,  1,1,1,0,0,  0,0,0,  1,1,0,30000,  1,200,0,0, 0,0,0,0,0, 0,0,0,0,0, 0,"",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1, 0,0,0,0,0, UtilityEffects,FlagGraphic,0,0,0,0,0,0,UtilitySounds,flag,2,0,None,None,0,0

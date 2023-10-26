@@ -1,0 +1,72 @@
+~B~1Super Fortress News~2~B
+---------------------------------------------------------------------------------------------
+Welcome to Cosmic Rift Super Fortress!
+
+Team oriented objective capture game.  The goal is to pickup 8 randomly dropped objectives and bring them back to an
+ad hoc base and defend them.  When you have all the flags you must defend them for 90 seconds to win.
+
+We hope you enjoy your Cosmic Rift experience.
+
+
+5-29-2007
+
+Head on over to the Station Pass Forums regarding news on Infantry, Cosmic Rift and Tanarus going FREE! 
+
+http://forums.station.sony.com/station/posts/list.m?topic_id=11500004225
+
+
+~B~4Friday, August 30, 2002~2~B
+
+        -Fixed teams have been added.  3, 15 man fixed teams.
+        -Teams scramble after 2 wins.
+
+~B~4Wednesday, August 21, 2002~2~B
+
+        -Unowned Flags are now visible on radar to players in-game. They still do not show up on the f3 map, however.
+
+~B~4Wednesday, July 10, 2002~2~B
+
+        -Time for a change of pace, the original superfortress map is now up.
+
+~B~4Wednesday, October 24, 2001~2~B
+	- changed it so flag-drop timer does not reset when you kill an enemy.  You have 90 seconds to get the flag to where it drops, no extending timer by killing...this is to prevent this zone from turning into a Seek & Destroy clone.
+
+~B~4Tuesday, July 24, 2001~2~B
+	- a bunch of new game statistics were added including a new MVP statistic.  The MVP statistic is based off a weighting of your other statistics.  During the course of a game, your current MVP rank and your percentage of the highest MVP player in the game is displayed at the top of the screen.  At the end of the game a breakdown of how you did is displayed.
+	- the jackpot is now distributed differently than before.  Every member of the winning team gets 100% of the jackpot to start out with.  Then, everybody in the game (winners and losers) will be given a percentage of the jackpot based on their personal percentage of the highest mvp.  This latter aspect of the scoring change will effectively provide some reward to players who are participating regardless of whether they win or not.
+
+~B~4Monday, July 9, 2001~2~B
+	- new map being tested.  This is our first player-made map and was created by GiGaMoN who has done an excellent job.  The map will no doubt need some tweaking, so your patience is appreciated.  Also, don't bother asking if you can make a map too, we have all the map-makers we are willing to deal with at this time.
+	- The new map is keeping track of scores independently from the other Super Fortress map, so everybody is starting at zero.  When we return to the old map again, we will likely have it inherit the scores from this map, so you can think of this as the score-reset you have been waiting for.
+
+~B~4Wednesday, May 30, 2001~2~B
+	- Made it so you cannot manually switch to a public team.  Attempting to do so will randomly assign you to any of the public teams (this is untested)
+
+~B~4Monday, May 14, 2001~2~B
+	- Made owned-flags appear on radar/map to everybody.  Hiding flags is not the object of the game.
+
+~B~4Monday, May 7, 2001~2~B
+	- Made private teams limited to 7 players
+
+~B~4Thursday, May 3, 2001~2~B
+	- Made flag games start with as few as 6 players.
+	- If there are less than 15 players in the game then it will only hide 4 flags instead of 8
+	- Started out Jackpot at 1000 so smaller games are worthwhile (private-arenas do not count scores to your permanent record by the way)
+	- Hopefully these changes will make it easier to get the ball-rolling as once a good game gets started the population increases quickly.
+
+~B~4Saturday, April 21, 2001~2~B
+
+Decreased private team sizes down to 10. Public teams are 12 man.
+
+Increased jackpot growth rate.
+
+
+~B~4Friday, April 20, 2001~2~B
+
+You are now required to be in spectator mode (f12) or a Safe Zone to change ships.
+
+You no longer spawn with a repulsor in inventory.
+
+
+
+

@@ -1,0 +1,13 @@
+1,v25,1124,"Upper Box Door#1Left",2032,1896,0,0,0,-3,    -8,0,16,1, 500,0,0,0, crdoors,EnergyDoorHorz8,0,0,68,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,1,"Upper Box Door#2",2288,1896,0,0,0,-3,    -8,0,16,1, 500,1124,0,0, crdoors,EnergyDoorHorz8,0,0,68,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,2,"Upper Box Door#3",2544,1896,0,0,0,-3,    -8,0,16,1, 500,1124,0,0, crdoors,EnergyDoorHorz8,0,0,68,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,3,"Upper Box Door#4",2800,1896,0,0,0,-3,    -8,0,16,1, 500,1124,0,0, crdoors,EnergyDoorHorz8,0,0,68,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,4,"Upper Box Door#5",2992,1896,0,0,0,-3,    -4,0,8,1, 500,1124,0,0, crdoors,EnergyDoorHorz4,0,0,68,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,5,"Lower Box Door#1Left",2032,2456,0,0,0,-3,    -8,0,16,1, 500,0,1,0, crdoors,EnergyDoorHorz8,0,0,68,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,6,"Lower Box Door#2",2288,2456,0,0,0,-3,    -8,0,16,1, 500,5,1,0, crdoors,EnergyDoorHorz8,0,0,68,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,7,"Lower Box Door#3",2544,2456,0,0,0,-3,    -8,0,16,1, 500,5,1,0, crdoors,EnergyDoorHorz8,0,0,68,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,8,"Lower Box Door#4",2800,2456,0,0,0,-3,    -8,0,16,1, 500,5,1,0, crdoors,EnergyDoorHorz8,0,0,68,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+1,v25,9,"Lower Box Door#5",2992,2456,0,0,0,-3,    -4,0,8,1, 500,5,1,0, crdoors,EnergyDoorHorz4,0,0,68,0,0,0,UtilitySounds,gateway,0,0,None,None,0,0
+4,v25,1235,"Team A Start",2480,864,500,200,0,-3,  0,500,0,500,1, 2,0,""
+4,v25,10,"Team B Start",2480,4080,500,200,0,-3,  0,500,0,500,1, 2,1,""
+4,v25,11,"Death",2480,2176,1000,1000,0,-3,  0,15,0,500,0, 0,0,""
